@@ -1,0 +1,7 @@
+num1 =int(input("Enter Number 1"))
+num2=int(input("Enter Number 2"))
+print("Maximum Value of Two Numbers",f"{num1},{num2} is",max(num1,num2))
+print("Multiplication :" ,f"{num1}*{num2}={num1*num2}")
+print("Sum :" ,f"{num1}+{num2}={num1+num2}")
+print("Division :" ,f"{num1}/{num2}={num1/num2}")
+print("Subtraction :" ,f"{num1}-{num2}={num1-num2}")
