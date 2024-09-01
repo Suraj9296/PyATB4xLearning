@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de246117-dc8f-489d-b4fb-53b57557c239" name="Changes" comment="Added all files of 27-08-2024">
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab086.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab087.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab088.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab089.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab090.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab091.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab092.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab093.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab094.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_29082024/Lab095.py" afterDir="false" />
+    <list default="true" id="de246117-dc8f-489d-b4fb-53b57557c239" name="Changes" comment="Added all files of 29-08-2024">
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab096.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab097.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab098.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab099.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Lab100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_31082024/Task12_OOP.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_27082024/Lab085.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_27082024/Lab085.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,9 +119,13 @@
     "Python.Lab092.executor": "Run",
     "Python.Lab094.executor": "Run",
     "Python.Lab095.executor": "Run",
+    "Python.Lab097.executor": "Run",
+    "Python.Lab099.executor": "Run",
+    "Python.Lab100.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task10.executor": "Run",
     "Python.Task11.executor": "Run",
+    "Python.Task12_OOP.executor": "Run",
     "Python.Task2.executor": "Run",
     "Python.Task3.executor": "Run",
     "Python.Task4.executor": "Run",
@@ -294,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724850500110</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added all files of 29-08-2024">
+      <option name="closed" value="true" />
+      <created>1724946720225</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724946720225</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,6 +324,7 @@
     <MESSAGE value="Added all files of 22-08-2024" />
     <MESSAGE value="Added all files of 24-08-2024" />
     <MESSAGE value="Added all files of 27-08-2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added all files of 27-08-2024" />
+    <MESSAGE value="Added all files of 29-08-2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added all files of 29-08-2024" />
   </component>
 </project>
