@@ -5,30 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de246117-dc8f-489d-b4fb-53b57557c239" name="Changes" comment="Added all files of 07-09-2024">
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab132.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab133.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab134.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab135.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab136.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab137.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab138.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab139.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab140.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab141.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab142.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab143.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab145.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab146.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab147.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab148.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab149.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab150.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/Lab151.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/TestData.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/example.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_10092024/suraj.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab158.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab159.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab160.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab161.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab162.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/ExcelReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/Lab152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/Lab153.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/Lab154.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/Lab155.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/Lab156.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/Lab157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/MySQLdbReader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/browserPackage/CloseBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/browserPackage/OpenBrowser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/browserPackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_26092024_API/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/September/ex_26092024_API/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +55,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_Lab159.test_verify_sum.executor": "Run",
+    "Python tests.Python tests in test_Lab160.py.executor": "Run",
+    "Python tests.Python tests in test_Lab161.py.executor": "Run",
+    "Python tests.Python tests in test_Lab162.py.executor": "Run",
     "Python.LAB001.executor": "Run",
     "Python.LAB005.executor": "Run",
     "Python.LAB006.executor": "Run",
@@ -178,6 +178,10 @@
     "Python.Lab149.executor": "Run",
     "Python.Lab150.executor": "Run",
     "Python.Lab151.executor": "Run",
+    "Python.Lab152.executor": "Run",
+    "Python.Lab153.executor": "Run",
+    "Python.Lab156.executor": "Run",
+    "Python.Lab157.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task10.executor": "Run",
     "Python.Task11.executor": "Run",
@@ -249,8 +253,24 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab159.test_verify_sum" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/October" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab159.test_verify_sum&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab159.test_verify_sum" />
         <item itemvalue="Python.Lab041" />
         <item itemvalue="Python.Task8" />
       </list>
