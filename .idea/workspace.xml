@@ -5,26 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de246117-dc8f-489d-b4fb-53b57557c239" name="Changes" comment="Added all files of 07-09-2024">
-      <change afterPath="$PROJECT_DIR$/src/October/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October/test_Lab158.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October/test_Lab159.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October/test_Lab160.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October/test_Lab161.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/October/test_Lab162.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/ExcelReader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/Lab152.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/Lab153.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/Lab154.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/Lab155.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/Lab156.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/Lab157.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/MySQLdbReader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/browserPackage/CloseBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/browserPackage/OpenBrowser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_12092024/browserPackage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_26092024_API/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/September/ex_26092024_API/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/conftest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab163.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab164.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab165.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab166.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab167.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab168.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab169.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab170.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab171.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab172.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/test_Lab173.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/October/userdata.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +54,10 @@
     "Python tests.Python tests in test_Lab160.py.executor": "Run",
     "Python tests.Python tests in test_Lab161.py.executor": "Run",
     "Python tests.Python tests in test_Lab162.py.executor": "Run",
+    "Python tests.Python tests in test_Lab168.py.executor": "Run",
+    "Python tests.Python tests in test_Lab170.py.executor": "Run",
+    "Python tests.Python tests in test_Lab171.py.executor": "Run",
+    "Python tests.Python tests in test_Lab173.py.executor": "Run",
     "Python.LAB001.executor": "Run",
     "Python.LAB005.executor": "Run",
     "Python.LAB006.executor": "Run",
@@ -194,6 +193,7 @@
     "Python.Task7.executor": "Run",
     "Python.Task8.executor": "Run",
     "Python.Task9.executor": "Run",
+    "Python.conftest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/git/automationpackage/Automation",
